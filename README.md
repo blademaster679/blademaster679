@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=blademaster679"
+    src="https://streak-stats.demolab.com?user=blademaster679&hide_border=true"
     alt="GitHub streak"
   />
 </div>
