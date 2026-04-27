@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <sub>"Growth is not a straight line, but a spiral reaching higher."</sub>
+  <sub>"I'm an optimist by choice not by stupidity." - Yanni</sub>
 </div>
 <!-- DAILY_QUOTE_END -->
