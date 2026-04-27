@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/profile-header.jpg" alt="Hi there, I'm an AI student at HKUST(GZ)" width="100%" />
+  <img src="images/profile-header.jpg" alt="Hi there👋, I'm an AI student at HKUST(GZ)" width="100%" />
 </div>
 
 <!--
