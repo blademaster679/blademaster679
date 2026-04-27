@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <sub>"I'm an optimist by choice not by stupidity." - Yanni</sub>
+  <span style="font-size: 16px;">"I'm an optimist by choice not by stupidity." - Yanni</span>
 </div>
 <!-- DAILY_QUOTE_END -->

@@ -44,7 +44,7 @@ def render_quote_block(quote: str, author: str) -> str:
     if author_text:
         text = f"{text} - {author_text}"
 
-    return f'{START}\n<div align="center">\n  <sub>{text}</sub>\n</div>\n{END}'
+    return f'{START}\n<div align="center">\n  <span style="font-size: 16px;">{text}</span>\n</div>\n{END}'
 
 
 def update_readme(path: Path, quote: str, author: str) -> None:
