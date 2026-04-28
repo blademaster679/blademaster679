@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"I'm an optimist by choice not by stupidity." - Yanni</span>
+  <span style="font-size: 16px;">"Self-knowledge is the beginning of self-correction." - Norman Vincent Peale</span>
 </div>
 <!-- DAILY_QUOTE_END -->
