@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Self-knowledge is the beginning of self-correction." - Norman Vincent Peale</span>
+  <span style="font-size: 16px;">"Over time, loneliness gets inside you and doesn't go away." - Carlos Ruiz Zafon</span>
 </div>
 <!-- DAILY_QUOTE_END -->
