@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Those who cannot change their minds cannot change anything." - George Bernard Shaw</span>
+  <span style="font-size: 16px;">"Duty makes us do things well, but love makes us do them beautifully." - Zig Ziglar</span>
 </div>
 <!-- DAILY_QUOTE_END -->
