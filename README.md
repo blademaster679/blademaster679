@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Duty makes us do things well, but love makes us do them beautifully." - Zig Ziglar</span>
+  <span style="font-size: 16px;">"Confidence is contagious. So is lack of confidence." - Vince Lombardi</span>
 </div>
 <!-- DAILY_QUOTE_END -->
