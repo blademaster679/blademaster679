@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Confidence is contagious. So is lack of confidence." - Vince Lombardi</span>
+  <span style="font-size: 16px;">"Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace</span>
 </div>
 <!-- DAILY_QUOTE_END -->
