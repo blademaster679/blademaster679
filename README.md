@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - Sun Tzu</span>
+  <span style="font-size: 16px;">"Throw your heart over the bar and your body will follow." - Norman Vincent Peale</span>
 </div>
 <!-- DAILY_QUOTE_END -->
