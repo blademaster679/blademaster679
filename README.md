@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Throw your heart over the bar and your body will follow." - Norman Vincent Peale</span>
+  <span style="font-size: 16px;">"If what you're doing is not your passion, you have nothing to lose." - Celestine Chua</span>
 </div>
 <!-- DAILY_QUOTE_END -->
