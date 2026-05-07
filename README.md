@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"If what you're doing is not your passion, you have nothing to lose." - Celestine Chua</span>
+  <span style="font-size: 16px;">"It's the possibility of having a dream come true that makes life interesting." - Paulo Coelho</span>
 </div>
 <!-- DAILY_QUOTE_END -->
