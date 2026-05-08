@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It's the possibility of having a dream come true that makes life interesting." - Paulo Coelho</span>
+  <span style="font-size: 16px;">"20 percent of your activities will account for 80 percent of your results." - Brian Tracy</span>
 </div>
 <!-- DAILY_QUOTE_END -->
