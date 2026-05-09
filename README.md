@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"20 percent of your activities will account for 80 percent of your results." - Brian Tracy</span>
+  <span style="font-size: 16px;">"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." - Zig Ziglar</span>
 </div>
 <!-- DAILY_QUOTE_END -->
