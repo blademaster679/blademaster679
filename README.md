@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily." - Zig Ziglar</span>
+  <span style="font-size: 16px;">"The majority of what you want will come from the minority of what you do." - Gary Keller</span>
 </div>
 <!-- DAILY_QUOTE_END -->
