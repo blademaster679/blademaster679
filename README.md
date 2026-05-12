@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"We don't stop playing because we grow old; we grow old because we stop playing." - George Bernard Shaw</span>
+  <span style="font-size: 16px;">"Life is a long lesson in humility." - James Matthew Barrie</span>
 </div>
 <!-- DAILY_QUOTE_END -->
