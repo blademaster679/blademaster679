@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Go confidently in the direction of your dreams! Live the life you've imagined." - Henry David Thoreau</span>
+  <span style="font-size: 16px;">"The purpose of life is the life of purpose." - Robin Sharma</span>
 </div>
 <!-- DAILY_QUOTE_END -->
