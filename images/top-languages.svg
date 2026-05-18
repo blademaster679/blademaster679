@@ -1,0 +1,53 @@
+<svg width="420" height="238" viewBox="0 0 420 238" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages</title>
+  <desc id="desc">Top programming languages used across public repositories.</desc>
+  <defs>
+    <linearGradient id="language-gradient" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0.0000%" stop-color="#3178c6"/>
+    <stop offset="36.0178%" stop-color="#3178c6"/>
+    <stop offset="36.0178%" stop-color="#f1e05a"/>
+    <stop offset="57.9843%" stop-color="#f1e05a"/>
+    <stop offset="57.9843%" stop-color="#3572A5"/>
+    <stop offset="76.1778%" stop-color="#3572A5"/>
+    <stop offset="76.1778%" stop-color="#e34c26"/>
+    <stop offset="93.1604%" stop-color="#e34c26"/>
+    <stop offset="93.1604%" stop-color="#563d7c"/>
+    <stop offset="96.7846%" stop-color="#563d7c"/>
+    <stop offset="96.7846%" stop-color="#89e051"/>
+    <stop offset="99.3539%" stop-color="#89e051"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="238" rx="8" fill="#ffffff"/>
+  <text x="24" y="35" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Top languages</text>
+  <rect x="24" y="46" width="372" height="8" rx="4" fill="url(#language-gradient)"/>
+  <circle cx="28" cy="61" r="5" fill="#3178c6"/>
+  <text x="42" y="66" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Makefile</text>
+  <rect x="146" y="55" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="55" width="90.04" height="10" rx="5" fill="#3178c6"/>
+  <text x="396" y="66" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">36.0%</text>
+  <circle cx="28" cy="89" r="5" fill="#f1e05a"/>
+  <text x="42" y="94" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">CMake</text>
+  <rect x="146" y="83" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="83" width="54.92" height="10" rx="5" fill="#f1e05a"/>
+  <text x="396" y="94" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">22.0%</text>
+  <circle cx="28" cy="117" r="5" fill="#3572A5"/>
+  <text x="42" y="122" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">C</text>
+  <rect x="146" y="111" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="111" width="45.48" height="10" rx="5" fill="#3572A5"/>
+  <text x="396" y="122" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">18.2%</text>
+  <circle cx="28" cy="145" r="5" fill="#e34c26"/>
+  <text x="42" y="150" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">C++</text>
+  <rect x="146" y="139" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="139" width="42.46" height="10" rx="5" fill="#e34c26"/>
+  <text x="396" y="150" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">17.0%</text>
+  <circle cx="28" cy="173" r="5" fill="#563d7c"/>
+  <text x="42" y="178" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Python</text>
+  <rect x="146" y="167" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="167" width="9.06" height="10" rx="5" fill="#563d7c"/>
+  <text x="396" y="178" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">3.62%</text>
+  <circle cx="28" cy="201" r="5" fill="#89e051"/>
+  <text x="42" y="206" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Shell</text>
+  <rect x="146" y="195" width="250" height="10" rx="5" fill="#e5e7eb"/>
+  <rect x="146" y="195" width="6.42" height="10" rx="5" fill="#89e051"/>
+  <text x="396" y="206" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">2.57%</text>
+</svg>
