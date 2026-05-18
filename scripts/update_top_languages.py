@@ -97,10 +97,17 @@ def format_percent(value: float) -> str:
 
 
 def render_svg(language_totals: dict[str, int], max_languages: int) -> str:
-    width = 420
-    header_height = 52
-    row_height = 28
-    footer_height = 18
+    width = 540
+    padding_x = 28
+    header_height = 86
+    row_height = 34
+    footer_height = 26
+    top_bar_y = 56
+    top_bar_width = width - padding_x * 2
+    language_x = 58
+    row_bar_x = 232
+    row_bar_width = 210
+    percent_x = width - padding_x
     shown = sorted(language_totals.items(), key=lambda item: item[1], reverse=True)[:max_languages]
 
     if not shown:
@@ -108,9 +115,15 @@ def render_svg(language_totals: dict[str, int], max_languages: int) -> str:
         return f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Top languages</title>
   <desc id="desc">No language data is available yet.</desc>
-  <rect width="{width}" height="{height}" rx="8" fill="#ffffff"/>
-  <text x="24" y="36" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Top languages</text>
-  <text x="24" y="76" fill="#6b7280" font-family="Segoe UI, Arial, sans-serif" font-size="14">No language data available.</text>
+  <defs>
+    <linearGradient id="card-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="14" fill="url(#card-gradient)" stroke="#e5e7eb"/>
+  <text x="{padding_x}" y="38" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Top languages</text>
+  <text x="{padding_x}" y="78" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">No language data available.</text>
 </svg>
 """
 
@@ -127,14 +140,14 @@ def render_svg(language_totals: dict[str, int], max_languages: int) -> str:
         color = DEFAULT_COLORS[index % len(DEFAULT_COLORS)]
         escaped_language = html.escape(language)
         y = header_height + index * row_height
-        bar_width = max(4, round(percent / 100 * 250, 2))
+        bar_width = max(5, round(percent / 100 * row_bar_width, 2))
 
         rows.append(
-            f"""  <circle cx="28" cy="{y + 9}" r="5" fill="{color}"/>
-  <text x="42" y="{y + 14}" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">{escaped_language}</text>
-  <rect x="146" y="{y + 3}" width="250" height="10" rx="5" fill="#e5e7eb"/>
-  <rect x="146" y="{y + 3}" width="{bar_width}" height="10" rx="5" fill="{color}"/>
-  <text x="396" y="{y + 14}" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">{format_percent(percent)}</text>"""
+            f"""  <circle cx="{padding_x + 6}" cy="{y + 15}" r="6" fill="{color}"/>
+  <text x="{language_x}" y="{y + 20}" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">{escaped_language}</text>
+  <rect x="{row_bar_x}" y="{y + 8}" width="{row_bar_width}" height="13" rx="6.5" fill="#e8edf3"/>
+  <rect x="{row_bar_x}" y="{y + 8}" width="{bar_width}" height="13" rx="6.5" fill="{color}"/>
+  <text x="{percent_x}" y="{y + 20}" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">{format_percent(percent)}</text>"""
         )
 
         end_offset = offset + percent
@@ -146,13 +159,17 @@ def render_svg(language_totals: dict[str, int], max_languages: int) -> str:
   <title id="title">Top languages</title>
   <desc id="desc">Top programming languages used across public repositories.</desc>
   <defs>
+    <linearGradient id="card-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
     <linearGradient id="language-gradient" x1="0" y1="0" x2="1" y2="0">
 {chr(10).join(gradient_stops)}
     </linearGradient>
   </defs>
-  <rect width="{width}" height="{height}" rx="8" fill="#ffffff"/>
-  <text x="24" y="35" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Top languages</text>
-  <rect x="24" y="46" width="372" height="8" rx="4" fill="url(#language-gradient)"/>
+  <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="14" fill="url(#card-gradient)" stroke="#e5e7eb"/>
+  <text x="{padding_x}" y="38" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Top languages</text>
+  <rect x="{padding_x}" y="{top_bar_y}" width="{top_bar_width}" height="11" rx="5.5" fill="url(#language-gradient)"/>
 {chr(10).join(rows)}
 </svg>
 """
