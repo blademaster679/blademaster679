@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Progress comes to those who train and train; reliance on secret techniques will get you nowhere." - Morihei Ueshiba</span>
+  <span style="font-size: 16px;">"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." - Andrew Carnegie</span>
 </div>
 <!-- DAILY_QUOTE_END -->
