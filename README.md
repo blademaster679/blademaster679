@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." - Andrew Carnegie</span>
+  <span style="font-size: 16px;">"The greatest value of a picture is when it forces us to notice what we never expected to see." - John Tukey</span>
 </div>
 <!-- DAILY_QUOTE_END -->
