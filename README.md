@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The greatest value of a picture is when it forces us to notice what we never expected to see." - John Tukey</span>
+  <span style="font-size: 16px;">"The divine is not something high above us. It is in heaven, it is in earth, it is inside us." - Morihei Ueshiba</span>
 </div>
 <!-- DAILY_QUOTE_END -->
