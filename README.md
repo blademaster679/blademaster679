@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The divine is not something high above us. It is in heaven, it is in earth, it is inside us." - Morihei Ueshiba</span>
+  <span style="font-size: 16px;">"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - Earl Nightingale</span>
 </div>
 <!-- DAILY_QUOTE_END -->
