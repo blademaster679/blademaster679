@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service." - Earl Nightingale</span>
+  <span style="font-size: 16px;">"Don't stop when you're tired. Stop when you're done." - Marilyn Monroe</span>
 </div>
 <!-- DAILY_QUOTE_END -->
