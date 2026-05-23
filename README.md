@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Don't stop when you're tired. Stop when you're done." - Marilyn Monroe</span>
+  <span style="font-size: 16px;">"Failure is an option, fear is not." - James Cameron</span>
 </div>
 <!-- DAILY_QUOTE_END -->
