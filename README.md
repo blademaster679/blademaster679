@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Failure is an option, fear is not." - James Cameron</span>
+  <span style="font-size: 16px;">"Presents are made for the pleasure of who gives them, not the merits of who receives them." - Carlos Ruiz Zafon</span>
 </div>
 <!-- DAILY_QUOTE_END -->
