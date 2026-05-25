@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Presents are made for the pleasure of who gives them, not the merits of who receives them." - Carlos Ruiz Zafon</span>
+  <span style="font-size: 16px;">"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." - Dan Millman</span>
 </div>
 <!-- DAILY_QUOTE_END -->
