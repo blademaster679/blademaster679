@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Learn only how to avoid seeking for and attaching yourselves to anything." - Huang Po</span>
+  <span style="font-size: 16px;">"Being wrong opens us up to the possibility of change." - Mark Manson</span>
 </div>
 <!-- DAILY_QUOTE_END -->
