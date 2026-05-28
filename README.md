@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Being wrong opens us up to the possibility of change." - Mark Manson</span>
+  <span style="font-size: 16px;">"You just can't beat the person who never gives up." - Babe Ruth</span>
 </div>
 <!-- DAILY_QUOTE_END -->
