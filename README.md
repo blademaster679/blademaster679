@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"You just can't beat the person who never gives up." - Babe Ruth</span>
+  <span style="font-size: 16px;">"Do something to move yourself toward your major goal every day." - Brian Tracy</span>
 </div>
 <!-- DAILY_QUOTE_END -->
