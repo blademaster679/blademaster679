@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Do something to move yourself toward your major goal every day." - Brian Tracy</span>
+  <span style="font-size: 16px;">"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." - John Eliot</span>
 </div>
 <!-- DAILY_QUOTE_END -->
