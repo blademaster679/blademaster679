@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." - John Eliot</span>
+  <span style="font-size: 16px;">"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - Spencer Johnson</span>
 </div>
 <!-- DAILY_QUOTE_END -->
