@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." - Spencer Johnson</span>
+  <span style="font-size: 16px;">"The only thing worse than being blind is having sight but no vision." - Helen Keller</span>
 </div>
 <!-- DAILY_QUOTE_END -->
