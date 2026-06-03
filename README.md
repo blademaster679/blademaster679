@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The only thing worse than being blind is having sight but no vision." - Helen Keller</span>
+  <span style="font-size: 16px;">"You are always your own best guru, your own best teacher, the answers are always inside you." - Sathya Sai Baba</span>
 </div>
 <!-- DAILY_QUOTE_END -->
