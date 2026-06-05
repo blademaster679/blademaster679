@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Expect the best of yourself, and then do what is necessary to make it a reality." - Ralph Marston</span>
+  <span style="font-size: 16px;">"One of the most difficult things is not to change society - but to change yourself." - Nelson Mandela</span>
 </div>
 <!-- DAILY_QUOTE_END -->
