@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"One of the most difficult things is not to change society - but to change yourself." - Nelson Mandela</span>
+  <span style="font-size: 16px;">"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life." - Confucius</span>
 </div>
 <!-- DAILY_QUOTE_END -->
