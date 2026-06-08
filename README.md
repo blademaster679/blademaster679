@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"A lot of people have gone further than they thought they could because someone else thought they could." - Zig Ziglar</span>
+  <span style="font-size: 16px;">"I like the dreams of the future better than the history of the past." - Thomas Jefferson</span>
 </div>
 <!-- DAILY_QUOTE_END -->
