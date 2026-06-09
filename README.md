@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"I like the dreams of the future better than the history of the past." - Thomas Jefferson</span>
+  <span style="font-size: 16px;">"Given the choice between the experience of pain and nothing, I would choose pain." - William Faulkner</span>
 </div>
 <!-- DAILY_QUOTE_END -->
