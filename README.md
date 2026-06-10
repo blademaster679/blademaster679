@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Given the choice between the experience of pain and nothing, I would choose pain." - William Faulkner</span>
+  <span style="font-size: 16px;">"Short cuts make long delays." - J.R.R. Tolkien</span>
 </div>
 <!-- DAILY_QUOTE_END -->
