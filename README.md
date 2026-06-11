@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Short cuts make long delays." - J.R.R. Tolkien</span>
+  <span style="font-size: 16px;">"Every man desires to live long, but no man wishes to be old." - Jonathan Swift</span>
 </div>
 <!-- DAILY_QUOTE_END -->
