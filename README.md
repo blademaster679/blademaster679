@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The future depends on what you do today." - Mahatma Gandhi</span>
+  <span style="font-size: 16px;">"You can't build a reputation on what you are going to do." - Henry Ford</span>
 </div>
 <!-- DAILY_QUOTE_END -->
