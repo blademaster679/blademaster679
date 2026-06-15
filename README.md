@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Anger begins with folly, and ends with repentance." - Beverly Sills</span>
+  <span style="font-size: 16px;">"Your dream has to be bigger than your fear." - Steve Harvey</span>
 </div>
 <!-- DAILY_QUOTE_END -->
