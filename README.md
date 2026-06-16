@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Your dream has to be bigger than your fear." - Steve Harvey</span>
+  <span style="font-size: 16px;">"The road to success is always under construction.." - Lily Tomlin</span>
 </div>
 <!-- DAILY_QUOTE_END -->
