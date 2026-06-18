@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Never whine, never complain, never try to justify yourself." - Robert Greene</span>
+  <span style="font-size: 16px;">"But better die than live mechanically a life that is a repetition of repetitions." - D. H. Lawrence</span>
 </div>
 <!-- DAILY_QUOTE_END -->
