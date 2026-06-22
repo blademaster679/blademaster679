@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Only when you can be extremely pliable and soft can you be extremely hard and strong." - Zen Proverb</span>
+  <span style="font-size: 16px;">"Argue for your limitations and sure enough, they're yours." - Richard Bach</span>
 </div>
 <!-- DAILY_QUOTE_END -->
