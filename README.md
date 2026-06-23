@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Argue for your limitations and sure enough, they're yours." - Richard Bach</span>
+  <span style="font-size: 16px;">"You may be one person in this world, but to one person you may mean the world." - Unknown</span>
 </div>
 <!-- DAILY_QUOTE_END -->
