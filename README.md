@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"You're on earth. There's no cure for that." - Samuel Beckett</span>
+  <span style="font-size: 16px;">"The best fighter is never angry." - Lao Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
