@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The best fighter is never angry." - Lao Tzu</span>
+  <span style="font-size: 16px;">"It is dangerous to be right in matters on which the established authorities are wrong." - Voltaire</span>
 </div>
 <!-- DAILY_QUOTE_END -->
