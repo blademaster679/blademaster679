@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Truth is the offspring of silence and meditation." - Isaac Newton</span>
+  <span style="font-size: 16px;">"All leaders are readers." - Jim Rohn</span>
 </div>
 <!-- DAILY_QUOTE_END -->
