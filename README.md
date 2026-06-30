@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"All leaders are readers." - Jim Rohn</span>
+  <span style="font-size: 16px;">"To create more positive results in your life, replace 'if only' with 'next time'." - Celestine Chua</span>
 </div>
 <!-- DAILY_QUOTE_END -->
