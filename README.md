@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"To create more positive results in your life, replace 'if only' with 'next time'." - Celestine Chua</span>
+  <span style="font-size: 16px;">"People who say it cannot be done should not interrupt those who are doing it." - George Bernard Shaw</span>
 </div>
 <!-- DAILY_QUOTE_END -->
