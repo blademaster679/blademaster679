@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"No one ever said life was fair. Just Eventful." - Carol Burnett</span>
+  <span style="font-size: 16px;">"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - Ray Bradbury</span>
 </div>
 <!-- DAILY_QUOTE_END -->
