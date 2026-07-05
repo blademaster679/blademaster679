@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Patience is bitter, but its fruit is sweet." - Aristotle</span>
+  <span style="font-size: 16px;">"One of the advantages of being disorganized is that one is always having surprising discoveries." - A.A. Milne</span>
 </div>
 <!-- DAILY_QUOTE_END -->
