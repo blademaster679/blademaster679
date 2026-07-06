@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"One of the advantages of being disorganized is that one is always having surprising discoveries." - A.A. Milne</span>
+  <span style="font-size: 16px;">"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives." - Betty White</span>
 </div>
 <!-- DAILY_QUOTE_END -->
