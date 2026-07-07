@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives." - Betty White</span>
+  <span style="font-size: 16px;">"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." - Sun Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
