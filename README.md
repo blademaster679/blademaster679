@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." - Sun Tzu</span>
+  <span style="font-size: 16px;">"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." - Steve Maraboli</span>
 </div>
 <!-- DAILY_QUOTE_END -->
