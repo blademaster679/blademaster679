@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"When you've got nothing, you've got nothing to lose." - Bob Dylan</span>
+  <span style="font-size: 16px;">"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant</span>
 </div>
 <!-- DAILY_QUOTE_END -->
