@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Success is a consequence and must not be a goal." - Gustave Flaubert</span>
+  <span style="font-size: 16px;">"Words, once they are printed, have a life of their own." - Carol Burnett</span>
 </div>
 <!-- DAILY_QUOTE_END -->
