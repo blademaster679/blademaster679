@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Pain doesn't last. And when it's gone, we have something to show for it. Growth." - Kamal Ravikant</span>
+  <span style="font-size: 16px;">"Knowing others is wisdom, knowing yourself is enlightenment." - Lao Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
