@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Knowing others is wisdom, knowing yourself is enlightenment." - Lao Tzu</span>
+  <span style="font-size: 16px;">"Death and life have their determined appointments; riches and honors depend upon heaven." - Confucius</span>
 </div>
 <!-- DAILY_QUOTE_END -->
