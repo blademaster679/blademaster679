@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?" - Robin Sharma</span>
+  <span style="font-size: 16px;">"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." - Albus Dumbledore</span>
 </div>
 <!-- DAILY_QUOTE_END -->
