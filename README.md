@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." - Albus Dumbledore</span>
+  <span style="font-size: 16px;">"An action committed in anger is an action doomed to failure." - Genghis Khan</span>
 </div>
 <!-- DAILY_QUOTE_END -->
