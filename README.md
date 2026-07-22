@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Do Something. If it works, do more of it. If it doesn't, do something else." - Franklin D. Roosevelt</span>
+  <span style="font-size: 16px;">"Nothing makes a man broad-minded like adversity." - Will Rogers</span>
 </div>
 <!-- DAILY_QUOTE_END -->
