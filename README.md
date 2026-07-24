@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Nothing makes a man broad-minded like adversity." - Will Rogers</span>
+  <span style="font-size: 16px;">"Change is hard at first, messy in the middle and gorgeous at the end." - Robin Sharma</span>
 </div>
 <!-- DAILY_QUOTE_END -->
