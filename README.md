@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It is amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman</span>
+  <span style="font-size: 16px;">"Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt</span>
 </div>
 <!-- DAILY_QUOTE_END -->
