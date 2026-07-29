@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Be kind, for everyone you meet is fighting a harder battle." - Plato</span>
+  <span style="font-size: 16px;">"If you let your head get too big, it'll break your neck." - Elvis Presley</span>
 </div>
 <!-- DAILY_QUOTE_END -->
