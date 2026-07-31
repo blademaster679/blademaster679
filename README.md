@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It isn't that they can't see the solution. It is that they can't see the problem." - Gilbert Chesterton</span>
+  <span style="font-size: 16px;">"New beginnings are disguised as painful endings." - Lao Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
