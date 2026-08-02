@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Expect the best of yourself, and then do what is necessary to make it a reality." - Ralph Marston</span>
+  <span style="font-size: 16px;">"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." - Joan Rivers</span>
 </div>
 <!-- DAILY_QUOTE_END -->
