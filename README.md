@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." - Joan Rivers</span>
+  <span style="font-size: 16px;">"It all depends on what you choose to believe." - Spencer Johnson</span>
 </div>
 <!-- DAILY_QUOTE_END -->
