@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It all depends on what you choose to believe." - Spencer Johnson</span>
+  <span style="font-size: 16px;">"Love never keeps a man from pursuing his destiny." - Paulo Coelho</span>
 </div>
 <!-- DAILY_QUOTE_END -->
