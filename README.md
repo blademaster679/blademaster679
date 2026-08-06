@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." - Epictetus</span>
+  <span style="font-size: 16px;">"Talk sense to a fool and he calls you foolish." - Euripides</span>
 </div>
 <!-- DAILY_QUOTE_END -->
