@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Talk sense to a fool and he calls you foolish." - Euripides</span>
+  <span style="font-size: 16px;">"Ability is a poor man's wealth." - John Wooden</span>
 </div>
 <!-- DAILY_QUOTE_END -->
