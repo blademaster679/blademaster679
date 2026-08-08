@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Ability is a poor man's wealth." - John Wooden</span>
+  <span style="font-size: 16px;">"The greatest discovery of all time is that a person can change their future by merely changing their attitude." - Oprah Winfrey</span>
 </div>
 <!-- DAILY_QUOTE_END -->
