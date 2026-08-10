@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Magic is believing in yourself, if you can do that, you can make anything happen." - Johann Wolfgang von Goethe</span>
+  <span style="font-size: 16px;">"Correct what you can. Learn from what you can't." - Toni Morrison</span>
 </div>
 <!-- DAILY_QUOTE_END -->
