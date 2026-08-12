@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Still your waters." - Josh Waitzkin</span>
+  <span style="font-size: 16px;">"Sadness is but a wall between two gardens." - Kahlil Gibran</span>
 </div>
 <!-- DAILY_QUOTE_END -->
