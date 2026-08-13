@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Sadness is but a wall between two gardens." - Kahlil Gibran</span>
+  <span style="font-size: 16px;">"Keep your face to the sunshine and you cannot see the shadows." - Helen Keller</span>
 </div>
 <!-- DAILY_QUOTE_END -->
