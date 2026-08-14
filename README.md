@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Keep your face to the sunshine and you cannot see the shadows." - Helen Keller</span>
+  <span style="font-size: 16px;">"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller</span>
 </div>
 <!-- DAILY_QUOTE_END -->
