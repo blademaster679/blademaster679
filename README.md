@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller</span>
+  <span style="font-size: 16px;">"Man suffers only because he takes seriously what the gods made for fun." - Alan Watts</span>
 </div>
 <!-- DAILY_QUOTE_END -->
