@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Motivation is what gets you started. Habit is what keeps you going." - Jim Rohn</span>
+  <span style="font-size: 16px;">"Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy</span>
 </div>
 <!-- DAILY_QUOTE_END -->
