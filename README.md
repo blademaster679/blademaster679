@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy</span>
+  <span style="font-size: 16px;">"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant</span>
 </div>
 <!-- DAILY_QUOTE_END -->
