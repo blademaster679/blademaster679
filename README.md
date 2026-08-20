@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Why change? Everyone has his own style. When you have found it, you should stick to it." - Audrey Hepburn</span>
+  <span style="font-size: 16px;">"No matter how tall the mountain is, it cannot block the sun." - Chinese Proverb</span>
 </div>
 <!-- DAILY_QUOTE_END -->
