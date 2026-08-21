@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"No matter how tall the mountain is, it cannot block the sun." - Chinese Proverb</span>
+  <span style="font-size: 16px;">"Listen to the secret sound, the real sound, which is inside you." - Kabir</span>
 </div>
 <!-- DAILY_QUOTE_END -->
