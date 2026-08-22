@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Listen to the secret sound, the real sound, which is inside you." - Kabir</span>
+  <span style="font-size: 16px;">"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla</span>
 </div>
 <!-- DAILY_QUOTE_END -->
