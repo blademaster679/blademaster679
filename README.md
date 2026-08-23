@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla</span>
+  <span style="font-size: 16px;">"The biggest adventure you can ever take is to live the life of your dreams." - Oprah Winfrey</span>
 </div>
 <!-- DAILY_QUOTE_END -->
