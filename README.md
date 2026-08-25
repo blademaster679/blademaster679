@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The quicker you let go of old cheese, the sooner you find new cheese." - Spencer Johnson</span>
+  <span style="font-size: 16px;">"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." - Denis Waitley</span>
 </div>
 <!-- DAILY_QUOTE_END -->
