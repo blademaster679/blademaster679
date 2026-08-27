@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens</span>
+  <span style="font-size: 16px;">"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." - Richard Bach</span>
 </div>
 <!-- DAILY_QUOTE_END -->
