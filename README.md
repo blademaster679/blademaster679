@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho</span>
+  <span style="font-size: 16px;">"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - Celestine Chua</span>
 </div>
 <!-- DAILY_QUOTE_END -->
