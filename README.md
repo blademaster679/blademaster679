@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - Celestine Chua</span>
+  <span style="font-size: 16px;">"Keep your eyes on the goal, and just keep taking the next step towards completing it." - John Carmack</span>
 </div>
 <!-- DAILY_QUOTE_END -->
