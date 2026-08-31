@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Keep your eyes on the goal, and just keep taking the next step towards completing it." - John Carmack</span>
+  <span style="font-size: 16px;">"To a mind that is still, the entire universe surrenders." - Zhuangzi</span>
 </div>
 <!-- DAILY_QUOTE_END -->
