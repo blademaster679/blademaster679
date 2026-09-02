@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Stop wasting time defending your problems and work on addressing them instead." - Celestine Chua</span>
+  <span style="font-size: 16px;">"Force has no place where there is need of skill." - Herodotus</span>
 </div>
 <!-- DAILY_QUOTE_END -->
