@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger</span>
+  <span style="font-size: 16px;">"Do good by stealth, and blush to find it fame." - Alexander Pope</span>
 </div>
 <!-- DAILY_QUOTE_END -->
