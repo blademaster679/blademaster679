@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Do good by stealth, and blush to find it fame." - Alexander Pope</span>
+  <span style="font-size: 16px;">"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking</span>
 </div>
 <!-- DAILY_QUOTE_END -->
