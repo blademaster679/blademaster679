@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking</span>
+  <span style="font-size: 16px;">"A man with outward courage dares to die: a man with inner courage dares to live." - Lao Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
