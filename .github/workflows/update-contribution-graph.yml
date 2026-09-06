@@ -1,0 +1,40 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: "40 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-contribution-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Update contribution graph
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_contribution_graph.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet images/contribution-graph.svg; then
+            echo "No contribution changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/contribution-graph.svg
+          git commit -m "Update contribution graph"
+          git push

@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=blademaster679&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&custom_title=Blademaster679's%20Contribution%20Graph"
+    src="images/contribution-graph.svg"
     alt="Blademaster679's Contribution Graph"
     width="100%"
   />
