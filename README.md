@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The greatest treasures are those invisible to the eye but found by the heart." - Judy Garland</span>
+  <span style="font-size: 16px;">"High thoughts must have high language." - Aristophanes</span>
 </div>
 <!-- DAILY_QUOTE_END -->
