@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"We are all like the bright moon, we still have our darker side." - Kahlil Gibran</span>
+  <span style="font-size: 16px;">"Simple words, repeated daily, can change your life." - Maxime Lagace</span>
 </div>
 <!-- DAILY_QUOTE_END -->
