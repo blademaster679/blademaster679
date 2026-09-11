@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Simple words, repeated daily, can change your life." - Maxime Lagace</span>
+  <span style="font-size: 16px;">"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." - Ming-Dao Deng</span>
 </div>
 <!-- DAILY_QUOTE_END -->
