@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"He who leaves the game wins it." - Nicolas Chamfort</span>
+  <span style="font-size: 16px;">"Everyday is a second chance." - Unknown</span>
 </div>
 <!-- DAILY_QUOTE_END -->
