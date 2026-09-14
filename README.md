@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Everyday is a second chance." - Unknown</span>
+  <span style="font-size: 16px;">"If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee</span>
 </div>
 <!-- DAILY_QUOTE_END -->
