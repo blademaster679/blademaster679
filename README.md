@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee</span>
+  <span style="font-size: 16px;">"Knowing yourself is the beginning of all wisdom." - Aristotle</span>
 </div>
 <!-- DAILY_QUOTE_END -->
