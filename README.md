@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Knowing yourself is the beginning of all wisdom." - Aristotle</span>
+  <span style="font-size: 16px;">"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy</span>
 </div>
 <!-- DAILY_QUOTE_END -->
