@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Till it has loved, no man or woman can become itself." - Emily Dickinson</span>
+  <span style="font-size: 16px;">"Make your mind your own business." - Jack Butcher</span>
 </div>
 <!-- DAILY_QUOTE_END -->
