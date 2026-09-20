@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Make your mind your own business." - Jack Butcher</span>
+  <span style="font-size: 16px;">"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." - Henry Ward Beecher</span>
 </div>
 <!-- DAILY_QUOTE_END -->
