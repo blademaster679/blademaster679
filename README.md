@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The smallest act of kindness is worth more than the greatest intention." - Kahlil Gibran</span>
+  <span style="font-size: 16px;">"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." - Samuel Butler</span>
 </div>
 <!-- DAILY_QUOTE_END -->
