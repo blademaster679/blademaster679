@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." - Samuel Butler</span>
+  <span style="font-size: 16px;">"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho</span>
 </div>
 <!-- DAILY_QUOTE_END -->
