@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"You are what you believe in. You become that which you believe you can become." - Bhagavad Gita</span>
+  <span style="font-size: 16px;">"Give so much away people insist on paying you." - Jack Butcher</span>
 </div>
 <!-- DAILY_QUOTE_END -->
