@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Give so much away people insist on paying you." - Jack Butcher</span>
+  <span style="font-size: 16px;">"If you get up one more time than you fall, you will make it through." - Chinese Proverb</span>
 </div>
 <!-- DAILY_QUOTE_END -->
