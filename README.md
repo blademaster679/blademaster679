@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"If you get up one more time than you fall, you will make it through." - Chinese Proverb</span>
+  <span style="font-size: 16px;">"Don't let your learning lead to knowledge. Let your learning lead to action." - Jim Rohn</span>
 </div>
 <!-- DAILY_QUOTE_END -->
