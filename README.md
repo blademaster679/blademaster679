@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"One mistake does not have to rule a person's entire life." - Joyce Meyer</span>
+  <span style="font-size: 16px;">"Silence is a source of great strength." - Lao Tzu</span>
 </div>
 <!-- DAILY_QUOTE_END -->
