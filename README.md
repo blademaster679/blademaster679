@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Silence is a source of great strength." - Lao Tzu</span>
+  <span style="font-size: 16px;">"If you've made a mistake, it's better just to laugh at it." - Zen Proverb</span>
 </div>
 <!-- DAILY_QUOTE_END -->
