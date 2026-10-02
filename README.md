@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"When you stop questioning, you stop learning." - Lolly Daskal</span>
+  <span style="font-size: 16px;">"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela</span>
 </div>
 <!-- DAILY_QUOTE_END -->
