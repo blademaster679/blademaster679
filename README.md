@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"We are born from a quiet sleep, and we die to a calm awakening" - Zhuangzi</span>
+  <span style="font-size: 16px;">"Would you rather learn to deal with the truth now than be forced to do so later on?" - Celestine Chua</span>
 </div>
 <!-- DAILY_QUOTE_END -->
