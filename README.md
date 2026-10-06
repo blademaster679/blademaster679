@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Engage in those actions and thoughts that nurture the good qualities you want to have." - Paramahansa Yogananda</span>
+  <span style="font-size: 16px;">"A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw</span>
 </div>
 <!-- DAILY_QUOTE_END -->
