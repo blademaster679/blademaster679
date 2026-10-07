@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw</span>
+  <span style="font-size: 16px;">"Be happy now, without reason - or you never will be at all." - Dan Millman</span>
 </div>
 <!-- DAILY_QUOTE_END -->
