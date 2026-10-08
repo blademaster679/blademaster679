@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Be happy now, without reason - or you never will be at all." - Dan Millman</span>
+  <span style="font-size: 16px;">"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett</span>
 </div>
 <!-- DAILY_QUOTE_END -->
