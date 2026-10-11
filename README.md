@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Ability is a poor man's wealth." - John Wooden</span>
+  <span style="font-size: 16px;">"You only live once, but if you do it right, once is enough." - Mae West</span>
 </div>
 <!-- DAILY_QUOTE_END -->
