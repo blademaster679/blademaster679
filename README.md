@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"You only live once, but if you do it right, once is enough." - Mae West</span>
+  <span style="font-size: 16px;">"Those who know, do. Those that understand, teach." - Aristotle</span>
 </div>
 <!-- DAILY_QUOTE_END -->
