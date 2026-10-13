@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Those who know, do. Those that understand, teach." - Aristotle</span>
+  <span style="font-size: 16px;">"Life can be the scariest and most beautiful thing simultaneously." - Maxime Lagace</span>
 </div>
 <!-- DAILY_QUOTE_END -->
