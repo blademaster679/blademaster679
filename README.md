@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison</span>
+  <span style="font-size: 16px;">"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj</span>
 </div>
 <!-- DAILY_QUOTE_END -->
