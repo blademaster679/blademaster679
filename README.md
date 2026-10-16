@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj</span>
+  <span style="font-size: 16px;">"As we first succeed, we will find ourselves in new situations, facing new problems." - Ryan Holiday</span>
 </div>
 <!-- DAILY_QUOTE_END -->
