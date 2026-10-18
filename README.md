@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"You've got to get up every morning with determination if you're going to go to bed with satisfaction." - George Lorimer</span>
+  <span style="font-size: 16px;">"The greater the impact you want to make, the greater your influence needs to be." - Lolly Daskal</span>
 </div>
 <!-- DAILY_QUOTE_END -->
