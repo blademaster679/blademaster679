@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The greater the impact you want to make, the greater your influence needs to be." - Lolly Daskal</span>
+  <span style="font-size: 16px;">"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Colin R. Davis</span>
 </div>
 <!-- DAILY_QUOTE_END -->
