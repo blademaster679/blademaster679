@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Colin R. Davis</span>
+  <span style="font-size: 16px;">"Each day your life grows a day shorter. Make every move count." - Ming-Dao Deng</span>
 </div>
 <!-- DAILY_QUOTE_END -->
