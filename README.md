@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Each day your life grows a day shorter. Make every move count." - Ming-Dao Deng</span>
+  <span style="font-size: 16px;">"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." - Mark Twain</span>
 </div>
 <!-- DAILY_QUOTE_END -->
