@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." - Mark Twain</span>
+  <span style="font-size: 16px;">"If someone betrays you once, it's their fault; if they betray you twice, it's your fault." - Eleanor Roosevelt</span>
 </div>
 <!-- DAILY_QUOTE_END -->
