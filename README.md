@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world." - Henry Ward Beecher</span>
+  <span style="font-size: 16px;">"The wiser you get, the less you care to look like a fool." - Maxime Lagace</span>
 </div>
 <!-- DAILY_QUOTE_END -->
