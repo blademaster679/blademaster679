@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The wiser you get, the less you care to look like a fool." - Maxime Lagace</span>
+  <span style="font-size: 16px;">"Loving thoughts and actions are clearly beneficial for our physical and mental health." - Dalai Lama</span>
 </div>
 <!-- DAILY_QUOTE_END -->
