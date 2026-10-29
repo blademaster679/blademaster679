@@ -8,17 +8,17 @@
     </linearGradient>
     <linearGradient id="language-gradient" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0.0000%" stop-color="#3178c6"/>
-    <stop offset="28.8624%" stop-color="#3178c6"/>
-    <stop offset="28.8624%" stop-color="#f1e05a"/>
-    <stop offset="53.3876%" stop-color="#f1e05a"/>
-    <stop offset="53.3876%" stop-color="#3572A5"/>
-    <stop offset="71.0641%" stop-color="#3572A5"/>
-    <stop offset="71.0641%" stop-color="#e34c26"/>
-    <stop offset="86.8675%" stop-color="#e34c26"/>
-    <stop offset="86.8675%" stop-color="#563d7c"/>
-    <stop offset="97.2563%" stop-color="#563d7c"/>
-    <stop offset="97.2563%" stop-color="#89e051"/>
-    <stop offset="99.3503%" stop-color="#89e051"/>
+    <stop offset="28.5015%" stop-color="#3178c6"/>
+    <stop offset="28.5015%" stop-color="#f1e05a"/>
+    <stop offset="53.5188%" stop-color="#f1e05a"/>
+    <stop offset="53.5188%" stop-color="#3572A5"/>
+    <stop offset="70.9867%" stop-color="#3572A5"/>
+    <stop offset="70.9867%" stop-color="#e34c26"/>
+    <stop offset="86.7856%" stop-color="#e34c26"/>
+    <stop offset="86.7856%" stop-color="#563d7c"/>
+    <stop offset="97.2772%" stop-color="#563d7c"/>
+    <stop offset="97.2772%" stop-color="#89e051"/>
+    <stop offset="99.3584%" stop-color="#89e051"/>
     </linearGradient>
   </defs>
   <rect x="0.5" y="0.5" width="539" height="315" rx="14" fill="url(#card-gradient)" stroke="#e5e7eb"/>
@@ -27,31 +27,31 @@
   <circle cx="34" cy="101" r="6" fill="#3178c6"/>
   <text x="58" y="106" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">Makefile</text>
   <rect x="232" y="94" width="210" height="13" rx="6.5" fill="#e8edf3"/>
-  <rect x="232" y="94" width="60.61" height="13" rx="6.5" fill="#3178c6"/>
-  <text x="512" y="106" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">28.9%</text>
+  <rect x="232" y="94" width="59.85" height="13" rx="6.5" fill="#3178c6"/>
+  <text x="512" y="106" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">28.5%</text>
   <circle cx="34" cy="135" r="6" fill="#f1e05a"/>
   <text x="58" y="140" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">C++</text>
   <rect x="232" y="128" width="210" height="13" rx="6.5" fill="#e8edf3"/>
-  <rect x="232" y="128" width="51.5" height="13" rx="6.5" fill="#f1e05a"/>
-  <text x="512" y="140" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">24.5%</text>
+  <rect x="232" y="128" width="52.54" height="13" rx="6.5" fill="#f1e05a"/>
+  <text x="512" y="140" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">25.0%</text>
   <circle cx="34" cy="169" r="6" fill="#3572A5"/>
   <text x="58" y="174" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">CMake</text>
   <rect x="232" y="162" width="210" height="13" rx="6.5" fill="#e8edf3"/>
-  <rect x="232" y="162" width="37.12" height="13" rx="6.5" fill="#3572A5"/>
-  <text x="512" y="174" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">17.7%</text>
+  <rect x="232" y="162" width="36.68" height="13" rx="6.5" fill="#3572A5"/>
+  <text x="512" y="174" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">17.5%</text>
   <circle cx="34" cy="203" r="6" fill="#e34c26"/>
   <text x="58" y="208" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">C</text>
   <rect x="232" y="196" width="210" height="13" rx="6.5" fill="#e8edf3"/>
-  <rect x="232" y="196" width="33.19" height="13" rx="6.5" fill="#e34c26"/>
+  <rect x="232" y="196" width="33.18" height="13" rx="6.5" fill="#e34c26"/>
   <text x="512" y="208" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">15.8%</text>
   <circle cx="34" cy="237" r="6" fill="#563d7c"/>
   <text x="58" y="242" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">Python</text>
   <rect x="232" y="230" width="210" height="13" rx="6.5" fill="#e8edf3"/>
-  <rect x="232" y="230" width="21.82" height="13" rx="6.5" fill="#563d7c"/>
-  <text x="512" y="242" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">10.4%</text>
+  <rect x="232" y="230" width="22.03" height="13" rx="6.5" fill="#563d7c"/>
+  <text x="512" y="242" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">10.5%</text>
   <circle cx="34" cy="271" r="6" fill="#89e051"/>
   <text x="58" y="276" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">Shell</text>
   <rect x="232" y="264" width="210" height="13" rx="6.5" fill="#e8edf3"/>
   <rect x="232" y="264" width="5" height="13" rx="6.5" fill="#89e051"/>
-  <text x="512" y="276" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">2.09%</text>
+  <text x="512" y="276" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end">2.08%</text>
 </svg>
