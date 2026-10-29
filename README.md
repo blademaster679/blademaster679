@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"What we dwell on is who we become." - Oprah Winfrey</span>
+  <span style="font-size: 16px;">"The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy</span>
 </div>
 <!-- DAILY_QUOTE_END -->
