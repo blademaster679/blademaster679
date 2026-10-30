@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy</span>
+  <span style="font-size: 16px;">"Distant water does not put out a nearby fire." - Chinese Proverb</span>
 </div>
 <!-- DAILY_QUOTE_END -->
