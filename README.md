@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Distant water does not put out a nearby fire." - Chinese Proverb</span>
+  <span style="font-size: 16px;">"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney</span>
 </div>
 <!-- DAILY_QUOTE_END -->
