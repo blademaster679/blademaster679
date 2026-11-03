@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." - Dalai Lama</span>
+  <span style="font-size: 16px;">"When the time is gone, you can never get it back." - Stephen King</span>
 </div>
 <!-- DAILY_QUOTE_END -->
