@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"When the time is gone, you can never get it back." - Stephen King</span>
+  <span style="font-size: 16px;">"What the eye doesn't see and the mind doesn't know, doesn't exist." - D. H. Lawrence</span>
 </div>
 <!-- DAILY_QUOTE_END -->
