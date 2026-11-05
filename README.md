@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=blademaster679&hide_border=true"
+    src="images/streak.svg"
     alt="GitHub streak"
   />
 </div>
