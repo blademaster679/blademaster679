@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"What the eye doesn't see and the mind doesn't know, doesn't exist." - D. H. Lawrence</span>
+  <span style="font-size: 16px;">"Debt is the slavery of the free." - Publilius Syrus</span>
 </div>
 <!-- DAILY_QUOTE_END -->
