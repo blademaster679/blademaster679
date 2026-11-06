@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Debt is the slavery of the free." - Publilius Syrus</span>
+  <span style="font-size: 16px;">"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki</span>
 </div>
 <!-- DAILY_QUOTE_END -->
