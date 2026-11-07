@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki</span>
+  <span style="font-size: 16px;">"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened." - Kamal Ravikant</span>
 </div>
 <!-- DAILY_QUOTE_END -->
