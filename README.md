@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it." - Dale Carnegie</span>
+  <span style="font-size: 16px;">"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell</span>
 </div>
 <!-- DAILY_QUOTE_END -->
