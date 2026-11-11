@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell</span>
+  <span style="font-size: 16px;">"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." - Roy T. Bennett</span>
 </div>
 <!-- DAILY_QUOTE_END -->
