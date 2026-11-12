@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." - Roy T. Bennett</span>
+  <span style="font-size: 16px;">"In the practice of tolerance, one's enemy is the best teacher." - Dalai Lama</span>
 </div>
 <!-- DAILY_QUOTE_END -->
