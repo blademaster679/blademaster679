@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - John Tukey</span>
+  <span style="font-size: 16px;">"There is nothing more frightful than ignorance in action." - Johann Wolfgang von Goethe</span>
 </div>
 <!-- DAILY_QUOTE_END -->
