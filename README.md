@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"There is nothing more frightful than ignorance in action." - Johann Wolfgang von Goethe</span>
+  <span style="font-size: 16px;">"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi</span>
 </div>
 <!-- DAILY_QUOTE_END -->
