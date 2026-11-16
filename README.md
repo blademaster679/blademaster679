@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi</span>
+  <span style="font-size: 16px;">"I dream my painting and I paint my dream." - Vincent van Gogh</span>
 </div>
 <!-- DAILY_QUOTE_END -->
