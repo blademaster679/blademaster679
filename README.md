@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Silence is a source of great strength." - Lao Tzu</span>
+  <span style="font-size: 16px;">"You are never too old to become younger." - Mae West</span>
 </div>
 <!-- DAILY_QUOTE_END -->
