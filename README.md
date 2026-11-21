@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Never waste a minute of your precious life thinking about people you don't like." - Celestine Chua</span>
+  <span style="font-size: 16px;">"To avoid criticism, do nothing, say nothing, and be nothing." - Elbert Hubbard</span>
 </div>
 <!-- DAILY_QUOTE_END -->
