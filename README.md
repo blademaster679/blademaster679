@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"To avoid criticism, do nothing, say nothing, and be nothing." - Elbert Hubbard</span>
+  <span style="font-size: 16px;">"Peace is not the absence of conflict, but the ability to cope with it." - Unknown</span>
 </div>
 <!-- DAILY_QUOTE_END -->
