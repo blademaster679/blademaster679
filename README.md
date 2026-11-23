@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Peace is not the absence of conflict, but the ability to cope with it." - Unknown</span>
+  <span style="font-size: 16px;">"Have a vision. Be demanding." - Colin Powell</span>
 </div>
 <!-- DAILY_QUOTE_END -->
