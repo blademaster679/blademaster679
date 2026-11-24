@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Have a vision. Be demanding." - Colin Powell</span>
+  <span style="font-size: 16px;">"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." - Robert Kiyosaki</span>
 </div>
 <!-- DAILY_QUOTE_END -->
