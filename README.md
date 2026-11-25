@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way." - Robert Kiyosaki</span>
+  <span style="font-size: 16px;">"We have to live life with a sense of urgency so not a minute is wasted." - Les Brown</span>
 </div>
 <!-- DAILY_QUOTE_END -->
