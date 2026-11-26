@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"We have to live life with a sense of urgency so not a minute is wasted." - Les Brown</span>
+  <span style="font-size: 16px;">"Keep your eyes on the stars, but remember to keep your feet on the ground." - Theodore Roosevelt</span>
 </div>
 <!-- DAILY_QUOTE_END -->
