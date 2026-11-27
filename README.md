@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"Keep your eyes on the stars, but remember to keep your feet on the ground." - Theodore Roosevelt</span>
+  <span style="font-size: 16px;">"It takes half your life before you discover life is a do-it-yourself project." - Napoleon Hill</span>
 </div>
 <!-- DAILY_QUOTE_END -->
