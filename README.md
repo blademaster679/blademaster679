@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <!-- DAILY_QUOTE_START -->
 <div align="center">
-  <span style="font-size: 16px;">"It takes half your life before you discover life is a do-it-yourself project." - Napoleon Hill</span>
+  <span style="font-size: 16px;">"High thoughts must have high language." - Aristophanes</span>
 </div>
 <!-- DAILY_QUOTE_END -->
